@@ -1,0 +1,44 @@
+{
+   "name": "API Movies Vue",
+   "short_name": "Movies Vue",
+   "description": "PWA para consultar la API de OMDbAPI con Vue.js.",
+   "background_color": "#35495e",
+   "theme_color": "#41b883",
+   "start_url": "./?umt_source=web_app_manifest",
+   "scope": "./",
+   "lang": "es-ES",
+   "display": "fullscreen",
+   "orientation": "portrait",
+   "icons": [
+      {
+         "src": "./assets/img/favicon.png",
+         "sizes": "16x16",
+         "type": "image/png"
+      },
+      {
+         "src": "./assets/img/icon32.png",
+         "sizes": "32x32",
+         "type": "image/png"
+      },
+      {
+         "src": "./assets/img/icon64.png",
+         "sizes": "64x64",
+         "type": "image/png"
+      },
+      {
+         "src": "./assets/img/icon128.png",
+         "sizes": "128x128",
+         "type": "image/png"
+      },
+      {
+         "src": "./assets/img/icon256.png",
+         "sizes": "256x256",
+         "type": "image/png"
+      },
+      {
+         "src": "./assets/img/icon512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ]
+}
